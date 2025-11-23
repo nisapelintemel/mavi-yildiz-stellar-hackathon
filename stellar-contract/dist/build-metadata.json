@@ -1,0 +1,8 @@
+﻿{
+    "package":  "soroban-token-contract",
+    "wasm":  "contract.wasm",
+    "wasm_sha256":  "572D111B36EDF5360A3D0CDB0D410DA97CFC71FD21391FCFCFEEAB81E4B7DDD4",
+    "built_at":  "2025-11-23T16:40:54.3562774+03:00",
+    "rustc":  "rustc 1.91.1 (ed61e7d7e 2025-11-07)",
+    "cargo":  "cargo 1.91.1 (ea2d97820 2025-10-10)"
+}
