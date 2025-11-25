@@ -1,5 +1,4 @@
 # mavi-yildiz-stellar-hackathon
-# mavi-yildiz-stellar-hackathon
 # 📦 Web3-Based Supply Chain Tracking System  
 **Transparent, immutable, and end-to-end product lifecycle validation**
 
